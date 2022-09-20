@@ -66,7 +66,7 @@ function playRound(computerSelection,playerSelection){
         return("PAPER on PAPER. It's a tie")
     }else{
         result = 'computerwin'
-        return("Player entered an incorrect string, computer wins this round")
+        return("Player entered an incorrect string.")
     }
 }
 
