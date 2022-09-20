@@ -1,0 +1,37 @@
+.selection {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 36px;
+    
+}
+
+.scores {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+h3 {
+       
+    color: black;
+    text-align: center;
+}
+
+h4 {
+       
+    color: black;
+    text-align: center;
+}
+
+h5 {
+       
+    color: black;
+    text-align: center;
+}
+
+.again {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
